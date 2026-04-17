@@ -12,7 +12,7 @@ This was a personal project for my own use (chronic hand pain) and I can't guara
 
 ## How to use
 
-Install Python and pip if not installed. Run "pip install requirements.txt". Then just run "python main.py" to run the program! Note that your webcam must be plugged in and not in-use by another program.
+Install Python and pip if not installed. Run "pip install -r requirements.txt". Then just run "python main.py" to run the program! Note that your webcam must be plugged in and not in-use by another program.
 
 Click "Add Keybind" or "Delete Keybind" to add/remove gesture to input mappings. To map a gesture to an input, select the Keybind, click "Edit Gesture", name the gesture, strike your pose, and confirm once you are satisfied with the gesture. Select a gesture and click "Edit Sensitivity" to customize how easily/uneasily a gesture gets triggered.
 

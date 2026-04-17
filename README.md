@@ -57,9 +57,6 @@ If you would like to disable gesture or mouse inputs manually, use the "Disable 
 - `config.json`
   Config file used to preserve state data between sessions. "Source of truth".
 
-- `blaze_face_short_range.tflite`
-  Used for face detection.
-
 - `face_landmarker.task`
   Used by mediapipe to generate 478 facial landmarks, 52 blendshapes, and head rotation estimates.
 
